@@ -1,0 +1,23 @@
+img
+    {
+        border-radius: 45%;
+        width: 200px;
+    }
+    body
+    {
+        background-color: #F6E6C2;
+    }
+    hr{
+        background-color: white;
+        border-style: none;
+        border-top-style: dotted;
+        border-color: black;
+        border-width: 50px;
+        border-width: thick;
+
+        width: 3%;
+    }
+    h1,h2,h3
+    {
+        color: #CF7500;
+    }
